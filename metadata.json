@@ -1,0 +1,6 @@
+{
+  "name": "CFT Tracker",
+  "description": "Construction material cubic feet (CFT) calculator, unit converter, daily truck delivery and expense logger with PDF report exports for project managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
